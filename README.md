@@ -1,2 +1,2 @@
 # hellow-world
-desc
+Get me Ice Cream!
